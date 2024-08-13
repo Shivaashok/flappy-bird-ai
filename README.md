@@ -31,4 +31,4 @@ To run the game, execute:
 
 ## Demo
 
-![Watch the video]([https://github.com/](https://github.com/Shivaashok/flappy-bird-ai/blob/fa40a85642124ce039f66986abae4093f94eb4a5/output.mp4))
+![Watch the video]([[https://github.com/](https://github.com/Shivaashok/flappy-bird-ai/blob/fa40a85642124ce039f66986abae4093f94eb4a5/output.mp4)](https://github.com/Shivaashok/flappy-bird-ai/blob/main/output.mp4))
